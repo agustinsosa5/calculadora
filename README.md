@@ -1,3 +1,3 @@
 # calculadora hecha con react. Operaciones basicas.
-https://sweet-sprinkles-414b40.netlify.app 
+https://calculadoraconreact.netlify.app/
 Ingresa a este link ⬆⬆⬆
